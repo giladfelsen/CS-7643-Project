@@ -1,6 +1,8 @@
 # CS-7643-Project
 Links to Code used in Project.
 
+Link to github readme [CLICK HERE](https://github.com/giladfelsen/CS-7643-Project/blob/main/README.md)
+
 There are a total of 4 folders that were used to execute code. The first three folders all build off/execute the code from [this repo](https://github.com/kekmodel/FixMatch-pytorch), which is an unofficial implementation of the Fixmatch algorithm in pytorch. 
 The last foldre builds off/executes the code from [this repo](https://github.com/torchssl/torchssl), which is the official implementation of Flexmatch algorithm in pytorch (and also includes implementations of other SSL algorithms).
 
